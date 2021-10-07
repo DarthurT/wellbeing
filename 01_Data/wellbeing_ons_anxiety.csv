@@ -1,0 +1,433 @@
+Area Codes,Area Names,Geographical Designation,2011/12,2012/13,2013/14,2014/15,2015/16,2016/17,2017/18,2018/19
+K02000001,UNITED KINGDOM,,3.13,3.03,2.92,2.86,2.87,2.90,2.89,2.87
+E92000001,ENGLAND,Country,3.14,3.04,2.93,2.86,2.87,2.91,2.90,2.87
+E12000001,NORTH EAST,Region,3.21,3.05,2.97,3.00,2.99,2.84,2.92,2.85
+E06000047,County Durham,Local Authority ,3.23,3.19,2.99,2.99,3.18,2.62,2.80,2.82
+E06000005,Darlington,Local Authority ,2.87,2.84,2.79,2.92,2.83,2.76,2.79,2.98
+E06000001,Hartlepool,Local Authority ,2.96,2.75,2.79,2.63,2.87,2.80,2.79,2.74
+E06000002,Middlesbrough,Local Authority ,3.59,3.03,3.14,2.99,2.83,2.87,2.99,2.75
+E06000057,Northumberland,Local Authority ,3.21,2.98,2.98,2.85,2.72,2.92,3.00,2.72
+E06000003,Redcar and Cleveland,Local Authority ,3.11,3.04,2.91,2.66,2.86,2.69,2.73,2.61
+E06000004,Stockton-on-Tees,Local Authority ,3.04,2.96,2.86,2.84,2.81,2.61,2.79,2.39
+E08000037,Gateshead,Local Authority ,3.29,3.13,3.24,3.32,2.98,2.94,3.09,3.09
+E08000021,Newcastle upon Tyne,Local Authority ,3.32,2.98,3.06,3.23,3.11,3.03,3.17,2.89
+E08000022,North Tyneside,Local Authority ,3.08,3.10,2.96,2.99,3.18,3.09,2.73,2.76
+E08000023,South Tyneside,Local Authority ,3.34,3.09,3.05,2.98,3.06,2.66,3.09,3.12
+E08000024,Sunderland,Local Authority ,3.18,3.12,2.70,3.17,3.00,3.07,2.98,3.21
+E12000002,NORTH WEST ,Region,3.17,3.08,2.93,2.90,2.93,2.93,2.86,2.78
+E06000008,Blackburn with Darwen,Local Authority,3.32,3.09,3.28,3.15,3.05,3.00,2.72,2.55
+E06000009,Blackpool,Local Authority,3.44,3.03,3.02,2.96,2.81,3.06,3.00,3.05
+E06000049,Cheshire East,Local Authority,3.00,2.91,2.89,2.63,2.45,3.00,2.60,2.65
+E06000050,Cheshire West and Chester,Local Authority,2.99,2.89,2.57,2.87,2.81,2.30,2.54,2.87
+E06000006,Halton,Local Authority,3.15,3.27,3.15,2.88,2.91,2.97,2.77,2.60
+E06000007,Warrington,Local Authority,3.23,3.03,2.85,2.80,2.90,2.84,2.83,2.69
+E10000006,Cumbria ,County,2.87,3.15,2.71,2.86,2.74,2.68,2.77,2.59
+E07000026,Allerdale,Local Authority,2.55,2.74,2.59,2.39,2.58,2.55,2.67,2.83
+E07000027,Barrow-in-Furness,Local Authority,2.91,2.82,3.49,3.41,2.95,2.59,3.01,2.29
+E07000028,Carlisle,Local Authority,2.95,3.25,2.84,3.38,2.96,2.88,3.24,2.41
+E07000029,Copeland,Local Authority,2.67,3.32,2.71,2.60,3.07,2.68,2.62,3.06
+E07000030,Eden,Local Authority,2.93,4.13,2.28,2.58,2.45,2.71,2.04,2.59
+E07000031,South Lakeland,Local Authority,3.15,3.02,2.38,2.74,2.48,2.61,2.71,2.42
+E08000001,Bolton,Local Authority,3.07,2.92,2.71,2.91,3.00,3.22,2.98,2.93
+E08000002,Bury,Local Authority,3.30,3.33,3.06,2.96,3.11,3.25,3.01,2.96
+E08000003,Manchester,Local Authority,3.44,3.23,3.02,2.99,3.08,3.37,2.85,3.01
+E08000004,Oldham ,Local Authority,3.41,3.17,3.05,3.15,3.10,2.67,2.71,2.78
+E08000005,Rochdale,Local Authority,3.26,3.28,2.89,2.88,3.04,2.78,2.82,3.00
+E08000006,Salford,Local Authority,3.42,3.17,3.02,2.77,3.04,2.97,3.05,2.95
+E08000007,Stockport,Local Authority,3.02,2.81,2.91,2.83,3.13,2.81,2.98,2.63
+E08000008,Tameside,Local Authority,3.21,3.11,3.09,2.95,2.89,3.07,3.07,2.61
+E08000009,Trafford,Local Authority,3.24,3.04,2.90,2.91,2.88,3.03,2.84,2.68
+E08000010,Wigan,Local Authority,3.25,2.76,2.58,2.79,2.61,2.91,2.70,2.54
+E10000017,Lancashire,County,3.07,2.95,2.91,2.72,3.03,2.87,2.94,2.69
+E07000117,Burnley,Local Authority,3.27,3.14,2.75,3.20,3.51,2.74,2.89,3.00
+E07000118,Chorley,Local Authority,2.95,2.94,3.03,2.16,2.68,2.59,2.89,3.09
+E07000119,Fylde,Local Authority,2.95,2.78,2.99,2.67,2.40,2.89,2.89,2.20
+E07000120,Hyndburn,Local Authority,2.82,3.10,3.47,2.48,3.42,2.28,2.91,2.70
+E07000121,Lancaster,Local Authority,3.22,2.73,2.30,2.27,2.79,3.36,2.79,2.73
+E07000122,Pendle,Local Authority,2.80,3.01,3.42,3.60,2.92,2.47,2.78,2.97
+E07000123,Preston,Local Authority,2.96,2.53,2.98,2.73,3.16,2.97,3.43,2.35
+E07000124,Ribble Valley,Local Authority,2.69,3.05,2.39,2.50,3.45,2.88,2.41,2.43
+E07000125,Rossendale,Local Authority,3.50,2.91,2.57,3.31,3.09,2.76,3.37,2.42
+E07000126,South Ribble,Local Authority,3.41,3.01,3.21,2.43,2.69,2.62,2.71,2.73
+E07000127,West Lancashire,Local Authority,3.28,3.30,2.99,3.24,3.47,3.34,2.63,2.43
+E07000128,Wyre,Local Authority,2.80,3.10,2.86,2.48,3.04,2.99,3.32,3.05
+E08000011,Knowsley ,Local Authority,3.35,3.34,3.21,3.31,3.13,3.14,3.27,2.93
+E08000012,Liverpool,Local Authority,3.44,3.51,3.36,3.42,3.16,3.00,2.94,2.81
+E08000014,Sefton,Local Authority,3.13,2.96,3.10,3.11,2.91,2.91,3.09,3.07
+E08000013,St. Helens,Local Authority,3.05,3.11,2.93,2.87,2.85,2.99,2.72,2.94
+E08000015,Wirral,Local Authority,3.00,3.24,2.78,2.74,2.65,2.88,2.64,2.81
+E12000003,YORKSHIRE AND THE HUMBER,Region,3.09,3.03,2.97,2.97,2.93,2.95,2.92,2.91
+E06000011,East Riding of Yorkshire,Local Authority,2.84,2.78,2.77,2.71,2.65,2.76,2.70,2.69
+E06000010,"Kingston upon Hull, City of",Local Authority,2.94,3.09,2.91,2.92,3.04,2.95,2.89,2.86
+E06000012,North East Lincolnshire,Local Authority,3.06,3.20,2.71,2.76,2.75,2.73,3.02,2.98
+E06000013,North Lincolnshire,Local Authority,3.10,2.85,2.82,2.66,2.81,2.81,2.94,3.04
+E06000014,York,Local Authority,3.18,2.98,2.89,3.14,3.18,3.00,3.19,2.98
+E10000023,North Yorkshire,County,2.80,2.64,2.54,2.68,2.71,2.53,2.69,2.66
+E07000163,Craven,Local Authority,2.87,2.48,2.33,2.34,2.48,2.01,2.33,2.75
+E07000164,Hambleton,Local Authority,3.13,2.62,2.43,2.36,2.57,2.62,3.05,2.35
+E07000165,Harrogate,Local Authority,2.57,2.66,2.94,2.86,3.04,2.93,2.65,3.11
+E07000166,Richmondshire,Local Authority,3.13,2.75,1.76,2.07,2.00,2.11,x,3.38
+E07000167,Ryedale,Local Authority,2.75,2.67,2.09,2.76,2.72,2.22,2.35,2.40
+E07000168,Scarborough,Local Authority,2.82,2.91,2.68,3.08,2.69,2.64,2.75,2.29
+E07000169,Selby,Local Authority,2.63,2.31,2.60,2.67,2.86,2.39,2.75,2.30
+E08000016,Barnsley,Local Authority,3.27,3.09,2.96,3.15,3.12,2.86,3.00,2.80
+E08000017,Doncaster,Local Authority,3.14,3.14,3.12,2.73,2.51,2.82,3.07,3.20
+E08000018,Rotherham ,Local Authority,3.37,3.01,2.98,3.22,3.30,3.03,3.30,3.14
+E08000019,Sheffield,Local Authority,3.24,3.22,3.24,3.15,3.15,3.09,3.00,3.00
+E08000032,Bradford ,Local Authority,3.34,3.07,3.26,3.04,2.72,3.15,2.81,2.99
+E08000033,Calderdale,Local Authority,2.98,2.92,3.00,3.05,2.82,2.91,2.93,2.98
+E08000034,Kirklees ,Local Authority,3.11,3.10,2.99,3.05,2.92,3.01,2.90,2.79
+E08000035,Leeds ,Local Authority,3.10,3.11,3.04,3.08,3.21,3.24,2.98,2.94
+E08000036,Wakefield,Local Authority,3.01,3.26,3.10,3.01,2.85,2.90,2.77,2.93
+E12000004,EAST MIDLANDS,Region,3.12,2.95,2.84,2.73,2.75,2.90,2.93,2.82
+E06000015,Derby ,Local Authority,3.15,3.02,3.16,2.95,2.92,2.90,2.89,2.59
+E06000016,Leicester,Local Authority,3.27,3.14,3.37,3.08,3.26,3.14,3.30,2.78
+E06000018,Nottingham,Local Authority,3.12,2.81,2.79,2.99,2.81,3.08,3.09,3.19
+E06000017,Rutland ,Local Authority,3.05,2.97,2.78,2.75,2.65,2.96,3.11,3.00
+E10000007,Derbyshire,County,2.95,3.11,2.71,2.68,2.75,2.93,2.97,2.70
+E07000032,Amber Valley,Local Authority,2.86,2.89,2.74,2.57,2.18,3.08,3.07,3.06
+E07000033,Bolsover,Local Authority,2.83,2.91,2.25,3.39,3.50,3.24,2.53,2.79
+E07000034,Chesterfield,Local Authority,2.96,3.26,2.26,2.13,2.54,3.25,3.15,2.78
+E07000035,Derbyshire Dales,Local Authority,2.75,3.21,2.85,2.49,2.58,2.60,2.96,3.04
+E07000036,Erewash,Local Authority,3.25,2.90,2.90,2.86,2.39,2.72,2.95,2.37
+E07000037,High Peak,Local Authority,2.64,2.95,2.93,2.75,2.61,2.93,3.24,2.66
+E07000038,North East Derbyshire,Local Authority,3.08,3.18,2.94,2.79,3.01,2.85,3.00,2.65
+E07000039,South Derbyshire,Local Authority,3.11,3.66,2.75,2.57,3.51,2.69,2.76,2.34
+E10000018,Leicestershire,County,3.54,3.12,3.04,2.73,2.82,3.02,2.97,2.88
+E07000129,Blaby,Local Authority,3.79,3.19,3.11,2.42,2.91,3.26,2.58,2.84
+E07000130,Charnwood,Local Authority,3.55,3.36,3.25,2.65,2.71,3.15,2.52,2.59
+E07000131,Harborough,Local Authority,3.53,3.63,3.55,2.92,2.98,3.15,2.77,2.68
+E07000132,Hinckley and Bosworth,Local Authority,3.27,2.79,2.58,3.21,2.66,2.77,3.39,3.24
+E07000133,Melton,Local Authority,3.59,2.71,2.82,3.01,3.32,3.22,3.56,3.79
+E07000134,North West Leicestershire,Local Authority,3.51,2.66,2.95,2.42,3.05,2.71,3.21,2.49
+E07000135,Oadby and Wigston,Local Authority,3.59,3.22,2.73,2.52,2.20,2.81,3.63,x
+E10000019,Lincolnshire ,County,3.13,2.73,2.76,2.54,2.57,2.62,2.78,2.86
+E07000136,Boston,Local Authority,3.21,2.81,3.01,2.07,2.84,2.98,3.54,2.41
+E07000137,East Lindsey,Local Authority,2.89,2.79,3.32,2.36,2.58,2.33,2.84,3.00
+E07000138,Lincoln,Local Authority,4.19,3.37,2.82,3.12,2.70,3.07,2.82,3.40
+E07000139,North Kesteven,Local Authority,3.10,2.53,2.50,2.52,2.56,2.65,2.97,2.86
+E07000140,South Holland,Local Authority,2.29,2.10,2.04,2.22,2.35,2.22,2.57,2.29
+E07000141,South Kesteven,Local Authority,3.30,2.56,2.64,2.80,2.50,2.89,2.43,3.09
+E07000142,West Lindsey,Local Authority,2.96,3.06,2.86,2.51,2.54,2.32,2.60,2.66
+E10000021,Northamptonshire ,County,2.93,3.06,2.64,2.69,2.77,2.64,2.74,2.64
+E07000150,Corby,Local Authority,2.65,3.04,3.19,2.75,2.97,2.79,3.04,2.88
+E07000151,Daventry,Local Authority,2.63,2.72,2.10,2.56,2.85,2.99,2.85,2.78
+E07000152,East Northamptonshire,Local Authority,2.86,3.10,2.83,2.94,3.63,2.72,2.47,2.33
+E07000153,Kettering,Local Authority,3.37,3.25,2.87,2.68,2.68,2.39,2.33,2.68
+E07000154,Northampton,Local Authority,3.04,2.95,2.57,2.64,2.65,2.48,2.90,2.65
+E07000155,South Northamptonshire,Local Authority,2.60,3.11,2.33,2.53,2.13,2.79,2.76,3.05
+E07000156,Wellingborough,Local Authority,3.03,3.40,2.80,2.83,2.70,2.69,2.76,2.06
+E10000024,Nottinghamshire,County,3.03,2.70,2.79,2.69,2.57,3.06,2.97,2.96
+E07000170,Ashfield,Local Authority,3.14,2.51,2.68,2.46,2.59,2.87,2.96,2.70
+E07000171,Bassetlaw,Local Authority,3.01,2.18,2.81,2.33,2.80,3.26,2.61,2.71
+E07000172,Broxtowe,Local Authority,3.33,2.97,2.64,2.79,2.46,2.94,3.47,2.81
+E07000173,Gedling,Local Authority,2.74,2.64,2.87,2.54,2.22,3.11,3.37,2.82
+E07000174,Mansfield,Local Authority,3.35,2.67,2.63,2.87,3.15,3.23,3.04,3.52
+E07000175,Newark and Sherwood,Local Authority,3.01,3.11,2.78,3.07,2.37,3.05,2.37,2.95
+E07000176,Rushcliffe,Local Authority,2.67,2.84,3.07,2.76,2.49,2.98,2.98,3.26
+E12000005,WEST MIDLANDS,Region,3.04,2.85,2.67,2.63,2.75,2.80,2.70,2.76
+E06000019,"Herefordshire, County of",Local Authority,3.03,3.05,2.89,2.84,2.73,2.73,2.68,2.59
+E06000051,Shropshire,Local Authority,2.94,2.86,2.76,2.57,2.87,2.87,2.89,2.97
+E06000021,Stoke-on-Trent,Local Authority,3.08,2.93,2.98,2.71,2.81,2.90,2.82,3.08
+E06000020,Telford and Wrekin,Local Authority,3.27,2.94,2.87,2.76,2.91,2.81,2.84,2.98
+E10000028,Staffordshire,County,2.97,2.84,2.76,2.62,2.67,2.83,2.53,2.76
+E07000192,Cannock Chase,Local Authority,2.87,2.96,3.02,2.71,2.97,3.34,2.75,2.62
+E07000193,East Staffordshire,Local Authority,3.05,3.02,3.36,2.36,2.29,2.79,2.34,2.67
+E07000194,Lichfield,Local Authority,2.97,2.94,2.79,2.68,2.56,2.23,2.39,2.71
+E07000195,Newcastle-under-Lyme,Local Authority,3.21,3.02,3.02,3.21,2.64,2.91,2.69,2.54
+E07000196,South Staffordshire,Local Authority,3.00,2.81,2.03,2.63,2.77,3.01,2.61,2.57
+E07000197,Stafford,Local Authority,2.99,2.53,3.12,2.42,2.76,2.83,2.44,3.16
+E07000198,Staffordshire Moorlands,Local Authority,2.82,3.03,2.00,2.47,2.77,3.12,2.60,2.75
+E07000199,Tamworth,Local Authority,2.70,2.34,2.56,2.36,2.65,2.29,2.40,3.10
+E10000031,Warwickshire,County,3.05,2.65,2.45,2.23,2.53,2.67,2.55,2.56
+E07000218,North Warwickshire,Local Authority,3.55,2.63,2.80,2.56,2.18,2.74,2.32,2.49
+E07000219,Nuneaton and Bedworth,Local Authority,3.16,3.09,3.13,1.83,2.86,3.02,3.07,2.49
+E07000220,Rugby,Local Authority,2.88,2.30,2.31,2.40,1.99,2.61,2.68,2.38
+E07000221,Stratford-on-Avon,Local Authority,3.09,2.41,2.50,2.23,2.67,2.51,2.14,2.74
+E07000222,Warwick,Local Authority,2.81,2.72,1.75,2.31,2.66,2.51,2.45,2.64
+E08000025,Birmingham,Local Authority,3.21,3.11,2.78,2.68,2.87,2.83,2.86,2.72
+E08000026,Coventry,Local Authority,3.01,2.92,2.69,2.48,2.53,2.90,2.96,3.00
+E08000027,Dudley ,Local Authority,3.00,2.97,2.64,2.62,2.89,3.00,2.57,2.83
+E08000028,Sandwell ,Local Authority,3.03,2.82,2.78,2.92,2.78,2.70,2.54,2.47
+E08000029,Solihull,Local Authority,3.15,2.90,2.96,2.63,2.88,2.94,2.53,2.57
+E08000030,Walsall,Local Authority,3.15,2.78,2.77,2.77,2.85,2.76,3.23,3.14
+E08000031,Wolverhampton,Local Authority,2.44,1.92,1.78,2.49,2.54,2.54,2.31,2.42
+E10000034,Worcestershire,County,3.00,2.76,2.43,2.78,2.79,2.71,2.62,2.77
+E07000234,Bromsgrove,Local Authority,3.13,2.72,3.14,3.20,3.14,2.30,2.12,2.84
+E07000235,Malvern Hills,Local Authority,3.09,2.59,2.50,2.90,2.36,2.75,2.67,2.82
+E07000236,Redditch,Local Authority,3.05,2.85,2.04,2.40,2.86,2.77,2.92,2.73
+E07000237,Worcester,Local Authority,3.27,2.77,2.13,2.79,3.14,3.31,2.62,2.97
+E07000238,Wychavon,Local Authority,2.79,2.52,2.43,2.50,2.36,2.26,2.59,2.48
+E07000239,Wyre Forest,Local Authority,2.75,3.15,2.37,2.92,2.89,2.95,2.87,2.86
+E12000006,EAST,Region,3.07,2.97,2.96,2.82,2.78,2.85,2.82,2.73
+E06000055,Bedford,Local Authority,3.40,3.14,2.74,2.86,2.96,3.18,2.64,2.62
+E06000056,Central Bedfordshire,Local Authority,3.01,2.73,3.07,2.71,2.61,2.72,3.06,2.61
+E06000032,Luton,Local Authority,3.09,2.83,3.14,2.99,2.80,2.84,2.83,2.44
+E06000031,Peterborough,Local Authority,3.34,2.94,3.20,2.86,2.89,2.93,2.74,2.77
+E06000033,Southend-on-Sea,Local Authority,2.92,3.05,3.00,2.88,2.76,2.92,2.98,2.91
+E06000034,Thurrock,Local Authority,3.36,3.07,2.88,3.00,2.79,3.01,3.09,3.07
+E10000003,Cambridgeshire,County,3.09,2.98,2.68,2.77,3.08,2.87,3.19,2.83
+E07000008,Cambridge,Local Authority,3.04,3.48,3.14,2.65,3.50,3.49,3.32,2.75
+E07000009,East Cambridgeshire,Local Authority,3.73,2.83,2.95,2.86,2.89,2.60,2.69,2.89
+E07000010,Fenland,Local Authority,2.56,2.75,2.10,2.72,3.27,2.74,3.18,2.93
+E07000011,Huntingdonshire,Local Authority,2.99,2.64,2.39,2.86,2.99,2.41,3.09,2.90
+E07000012,South Cambridgeshire,Local Authority,3.23,3.17,2.82,2.75,2.82,3.10,3.50,2.72
+E10000012,Essex,County,2.97,2.95,2.89,2.59,2.80,2.83,2.82,2.79
+E07000066,Basildon,Local Authority,3.25,3.10,2.90,2.73,3.01,3.02,2.79,3.01
+E07000067,Braintree,Local Authority,2.75,2.81,3.01,2.77,2.58,2.83,2.44,3.06
+E07000068,Brentwood,Local Authority,3.72,3.35,3.17,2.52,3.15,3.32,2.66,2.74
+E07000069,Castle Point,Local Authority,3.12,3.37,3.36,2.81,2.52,2.66,2.35,2.54
+E07000070,Chelmsford,Local Authority,2.94,2.68,2.70,2.48,2.43,2.64,3.35,2.89
+E07000071,Colchester,Local Authority,3.37,3.02,2.64,2.26,2.38,2.68,2.88,3.00
+E07000072,Epping Forest,Local Authority,2.92,2.80,2.75,3.01,2.99,2.37,3.59,2.44
+E07000073,Harlow,Local Authority,2.62,3.16,3.06,2.88,3.05,3.21,2.80,2.49
+E07000074,Maldon,Local Authority,2.65,2.54,3.20,2.93,2.37,2.75,2.91,2.86
+E07000075,Rochford,Local Authority,2.27,3.08,2.88,2.30,2.88,3.24,2.21,2.48
+E07000076,Tendring,Local Authority,2.92,2.85,2.93,2.29,3.31,2.92,2.74,2.66
+E07000077,Uttlesford,Local Authority,2.63,2.87,2.55,2.25,3.29,2.74,2.51,2.87
+E10000015,Hertfordshire ,County,2.94,3.05,3.07,3.04,2.65,2.87,2.76,2.62
+E07000095,Broxbourne,Local Authority,2.75,2.82,3.10,3.40,2.70,3.26,3.92,3.01
+E07000096,Dacorum,Local Authority,2.77,3.04,3.24,2.72,2.37,2.75,2.78,2.63
+E07000242,East Hertfordshire,Local Authority,2.93,3.00,3.12,3.41,2.94,3.15,2.87,2.46
+E07000098,Hertsmere,Local Authority,3.24,3.13,3.02,3.51,2.63,3.51,2.45,2.40
+E07000099,North Hertfordshire,Local Authority,2.69,2.77,2.72,2.83,2.70,2.73,3.25,3.12
+E07000240,St Albans,Local Authority,2.81,3.11,3.53,3.07,2.33,2.68,2.21,2.53
+E07000243,Stevenage,Local Authority,2.88,3.77,3.00,2.95,2.89,2.96,2.10,2.62
+E07000102,Three Rivers,Local Authority,3.30,2.79,2.77,3.06,2.60,2.73,2.61,1.92
+E07000103,Watford,Local Authority,3.39,2.89,2.79,2.91,2.18,2.27,2.41,2.68
+E07000241,Welwyn Hatfield,Local Authority,2.88,3.25,3.15,2.68,3.17,2.69,2.93,2.76
+E10000020,Norfolk ,County,3.30,3.02,3.02,2.75,2.65,2.82,2.62,2.65
+E07000143,Breckland,Local Authority,3.45,2.73,3.14,3.11,2.86,2.54,2.57,2.60
+E07000144,Broadland,Local Authority,3.28,2.88,3.12,3.07,2.38,3.35,2.36,2.50
+E07000145,Great Yarmouth,Local Authority,3.33,2.74,3.23,2.81,2.44,2.52,2.73,2.16
+E07000146,King’s Lynn and West Norfolk,Local Authority,3.22,3.06,3.00,2.22,2.24,2.74,2.20,2.61
+E07000147,North Norfolk,Local Authority,3.00,3.24,2.54,2.25,2.43,2.78,2.54,2.54
+E07000148,Norwich,Local Authority,3.40,3.07,3.11,2.96,3.06,2.76,3.20,3.17
+E07000149,South Norfolk,Local Authority,3.35,3.42,2.94,2.85,3.12,3.01,2.78,2.81
+E10000029,Suffolk,County,2.99,2.88,2.98,2.97,2.81,2.76,2.74,2.77
+E07000200,Babergh,Local Authority,2.90,2.89,2.42,2.69,3.07,3.14,2.71,3.08
+E07000201,Forest Heath,Local Authority,2.74,2.72,3.14,3.51,2.81,3.32,2.77,2.46
+E07000202,Ipswich,Local Authority,3.16,3.01,3.41,3.10,2.80,3.06,3.27,2.97
+E07000203,Mid Suffolk,Local Authority,2.55,2.73,3.01,3.19,2.70,2.32,2.16,3.04
+E07000204,St Edmundsbury,Local Authority,3.18,3.10,2.58,2.47,3.12,2.29,2.63,2.23
+E07000205,Suffolk Coastal,Local Authority,2.92,3.11,3.20,2.90,2.47,2.66,2.78,2.45
+E07000206,Waveney,Local Authority,3.27,2.51,2.96,3.13,2.81,2.78,2.69,3.10
+E12000007,LONDON,Region,3.42,3.27,3.18,3.02,3.04,3.12,3.13,3.10
+E09000007,Camden,Local Authority,3.81,3.24,3.41,3.21,3.16,3.38,3.62,3.30
+E09000001,City of London,Local Authority,x,x,x,x,x,x,x,x
+E09000012,Hackney ,Local Authority,3.88,3.66,3.79,3.32,3.13,3.48,3.23,3.04
+E09000013,Hammersmith and Fulham ,Local Authority,2.87,3.09,3.40,3.14,3.68,3.49,3.52,3.45
+E09000014,Haringey,Local Authority,3.30,3.06,3.24,3.00,3.09,3.01,3.34,3.07
+E09000019,Islington,Local Authority,3.66,3.68,3.45,3.27,3.41,3.26,3.35,3.23
+E09000020,Kensington and Chelsea,Local Authority,3.20,3.00,3.14,3.21,3.38,3.29,3.71,3.69
+E09000022,Lambeth ,Local Authority,3.43,3.66,3.42,3.12,3.33,3.50,3.32,3.67
+E09000023,Lewisham ,Local Authority,3.56,3.36,3.40,3.23,3.08,3.26,3.18,3.37
+E09000025,Newham ,Local Authority,3.89,3.33,2.85,2.72,2.57,2.76,3.04,3.16
+E09000028,Southwark,Local Authority,3.54,3.37,3.49,3.29,3.27,3.37,3.68,3.61
+E09000030,Tower Hamlets,Local Authority,3.53,2.95,3.05,3.14,2.86,3.14,3.26,2.77
+E09000032,Wandsworth,Local Authority,3.63,3.54,3.34,3.07,3.29,3.36,2.88,3.15
+E09000033,Westminster,Local Authority,3.52,3.66,3.13,3.38,3.14,2.99,3.33,3.36
+E09000002,Barking and Dagenham,Local Authority,3.23,3.27,3.39,3.15,2.84,3.02,2.85,2.82
+E09000003,Barnet,Local Authority,3.41,2.74,2.60,2.37,2.49,3.09,2.78,3.19
+E09000004,Bexley,Local Authority,3.07,3.24,3.46,3.16,3.06,3.16,3.04,3.21
+E09000005,Brent ,Local Authority,2.77,3.29,3.07,2.50,2.57,2.69,2.70,2.40
+E09000006,Bromley,Local Authority,3.30,3.22,3.15,2.76,2.98,3.29,3.16,2.88
+E09000008,Croydon,Local Authority,3.47,3.04,3.32,2.89,3.12,3.03,3.27,2.93
+E09000009,Ealing,Local Authority,3.86,3.58,3.38,3.36,3.35,3.35,3.23,3.40
+E09000010,Enfield,Local Authority,3.15,2.54,2.57,2.19,2.49,2.96,2.63,2.96
+E09000011,Greenwich,Local Authority,3.38,3.62,3.27,3.52,3.55,3.37,3.15,2.98
+E09000015,Harrow,Local Authority,2.65,3.14,2.60,2.57,2.82,2.47,2.44,2.34
+E09000016,Havering,Local Authority,3.40,3.17,3.12,3.02,2.65,2.81,2.83,3.03
+E09000017,Hillingdon,Local Authority,3.44,3.37,3.06,3.03,3.09,3.37,3.17,3.07
+E09000018,Hounslow,Local Authority,3.54,3.39,3.17,3.25,3.13,2.79,3.28,3.14
+E09000021,Kingston upon Thames,Local Authority,3.50,3.34,3.07,3.20,3.03,3.19,3.04,2.81
+E09000024,Merton,Local Authority,3.78,3.59,3.38,3.31,3.23,3.15,3.07,3.13
+E09000026,Redbridge,Local Authority,3.30,3.11,3.16,3.02,2.97,3.06,3.17,3.05
+E09000027,Richmond upon Thames,Local Authority,3.32,3.49,3.01,3.34,2.99,3.25,3.38,3.34
+E09000029,Sutton,Local Authority,3.22,3.34,3.28,3.04,3.59,2.99,2.94,2.64
+E09000031,Waltham Forest,Local Authority,3.45,2.96,3.03,2.79,2.58,2.62,3.03,2.98
+E12000008,SOUTH EAST,Region,3.07,3.04,2.87,2.82,2.84,2.87,2.92,2.88
+E06000036,Bracknell Forest,Local Authority,2.93,3.09,2.98,3.05,2.97,3.00,2.95,2.76
+E06000043,Brighton and Hove,Local Authority,3.28,3.44,3.23,3.36,3.64,3.35,3.47,3.43
+E06000046,Isle of Wight,Local Authority,2.79,2.78,2.59,2.68,2.72,2.79,2.79,2.85
+E06000035,Medway,Local Authority,3.19,3.00,2.79,2.80,2.93,3.17,3.06,3.23
+E06000042,Milton Keynes,Local Authority,3.16,3.38,3.02,2.85,2.86,2.56,2.80,2.80
+E06000044,Portsmouth,Local Authority,2.98,2.78,2.55,2.50,2.60,2.73,3.07,2.78
+E06000038,Reading,Local Authority,3.00,3.41,3.08,3.11,2.84,3.04,3.05,2.98
+E06000039,Slough,Local Authority,3.33,3.37,3.36,3.43,3.26,3.07,3.19,3.26
+E06000045,Southampton,Local Authority,3.10,3.21,3.04,2.95,2.60,2.82,2.78,3.28
+E06000037,West Berkshire,Local Authority,3.06,2.96,2.87,2.88,2.94,2.98,2.93,2.70
+E06000040,Windsor and Maidenhead,Local Authority,3.21,3.04,3.09,3.06,2.98,2.95,3.08,3.02
+E06000041,Wokingham,Local Authority,3.18,3.00,2.92,2.65,2.97,2.87,2.68,2.51
+E10000002,Buckinghamshire,County,3.04,2.95,2.90,3.16,2.82,2.90,2.85,2.89
+E07000004,Aylesbury Vale,Local Authority,2.97,3.25,2.70,3.03,2.80,2.75,2.74,2.78
+E07000005,Chiltern,Local Authority,3.09,2.77,2.54,2.96,2.63,3.13,3.11,3.50
+E07000006,South Bucks,Local Authority,3.02,2.84,3.21,3.18,3.03,2.88,2.61,2.36
+E07000007,Wycombe,Local Authority,3.10,2.75,3.19,3.40,2.87,2.94,2.93,2.88
+E10000011,East Sussex,County,2.98,3.04,2.92,2.73,2.53,2.88,2.87,2.83
+E07000061,Eastbourne,Local Authority,3.34,3.33,3.39,2.70,2.42,2.56,2.86,3.39
+E07000062,Hastings,Local Authority,2.92,3.19,2.57,2.58,2.66,2.85,2.74,3.03
+E07000063,Lewes,Local Authority,2.91,2.66,2.87,2.81,2.96,3.22,3.28,2.46
+E07000064,Rother,Local Authority,2.96,2.95,2.67,2.66,2.28,2.72,2.52,2.88
+E07000065,Wealden,Local Authority,2.84,3.07,3.01,2.83,2.40,2.97,2.88,2.55
+E10000014,Hampshire,County,2.93,2.65,2.77,2.69,2.66,2.58,2.71,2.69
+E07000084,Basingstoke and Deane,Local Authority,2.70,2.72,2.56,2.80,2.39,2.73,2.48,2.82
+E07000085,East Hampshire,Local Authority,3.28,2.95,2.98,2.69,3.02,2.60,2.68,3.05
+E07000086,Eastleigh,Local Authority,2.68,2.10,3.06,2.60,2.90,2.78,2.86,3.32
+E07000087,Fareham,Local Authority,3.08,2.55,2.58,2.84,2.68,2.57,2.21,1.75
+E07000088,Gosport,Local Authority,3.08,2.48,2.67,2.89,2.54,2.37,2.88,2.93
+E07000089,Hart,Local Authority,3.53,2.38,2.55,2.35,2.59,2.34,2.74,2.63
+E07000090,Havant,Local Authority,2.71,2.86,3.09,2.76,2.15,2.31,2.64,2.22
+E07000091,New Forest,Local Authority,2.58,2.65,2.91,2.76,2.82,2.61,2.63,2.49
+E07000092,Rushmoor,Local Authority,2.58,2.83,2.74,2.08,3.26,2.22,2.02,2.47
+E07000093,Test Valley,Local Authority,3.24,2.59,3.11,2.75,2.69,2.58,3.27,2.96
+E07000094,Winchester,Local Authority,3.20,2.97,2.08,2.83,2.37,2.93,3.38,2.94
+E10000016,Kent,County,3.01,3.08,2.91,2.63,2.93,2.84,2.86,2.98
+E07000105,Ashford,Local Authority,2.63,2.85,2.67,2.48,2.93,3.00,2.77,2.78
+E07000106,Canterbury,Local Authority,3.20,3.09,3.25,2.84,2.88,3.27,3.19,3.07
+E07000107,Dartford,Local Authority,3.27,2.93,3.40,2.38,2.52,2.93,2.70,2.71
+E07000108,Dover,Local Authority,3.18,3.36,3.09,3.20,3.00,2.39,2.91,2.88
+E07000109,Gravesham,Local Authority,3.34,2.40,2.38,2.34,3.21,2.84,2.44,3.04
+E07000110,Maidstone,Local Authority,3.14,3.21,2.76,2.89,2.77,2.95,2.87,2.92
+E07000111,Sevenoaks,Local Authority,2.55,3.49,2.83,2.71,2.84,2.65,3.24,3.18
+E07000112,Shepway,Local Authority,3.17,3.61,3.28,2.16,3.18,3.12,2.94,3.26
+E07000113,Swale,Local Authority,2.72,2.63,2.59,2.42,3.15,3.11,3.08,3.38
+E07000114,Thanet,Local Authority,3.11,3.14,2.80,3.00,3.27,2.40,2.98,2.92
+E07000115,Tonbridge and Malling,Local Authority,3.15,3.02,2.72,2.52,2.82,2.40,2.45,2.60
+E07000116,Tunbridge Wells,Local Authority,2.71,3.22,3.20,2.29,2.54,2.86,2.49,3.01
+E10000025,Oxfordshire ,County,3.29,3.03,2.84,2.86,2.91,3.06,3.12,2.96
+E07000177,Cherwell,Local Authority,3.22,3.15,2.71,2.65,2.91,2.93,3.16,2.76
+E07000178,Oxford,Local Authority,3.72,3.14,3.47,3.29,3.15,3.52,3.40,3.02
+E07000179,South Oxfordshire,Local Authority,3.12,3.31,2.59,2.41,2.85,2.84,3.04,2.76
+E07000180,Vale of White Horse,Local Authority,3.07,2.58,2.70,2.82,2.85,3.04,3.10,3.42
+E07000181,West Oxfordshire,Local Authority,3.24,2.90,2.58,3.12,2.72,2.85,2.73,2.90
+E10000030,Surrey,County,3.16,3.13,2.81,2.93,2.81,2.90,3.00,2.83
+E07000207,Elmbridge,Local Authority,2.72,3.23,2.80,2.99,2.62,3.23,2.88,2.35
+E07000208,Epsom and Ewell,Local Authority,3.67,2.81,2.63,2.76,2.87,2.68,3.20,3.63
+E07000209,Guildford,Local Authority,3.49,3.43,2.88,2.74,2.54,2.65,2.99,2.54
+E07000210,Mole Valley,Local Authority,3.14,2.73,3.03,2.83,2.77,2.45,2.97,3.06
+E07000211,Reigate and Banstead,Local Authority,3.04,2.90,3.08,2.69,2.47,3.41,3.34,2.61
+E07000212,Runnymede,Local Authority,3.57,3.71,2.65,3.48,3.36,3.54,2.94,2.52
+E07000213,Spelthorne,Local Authority,3.12,3.13,2.95,3.37,3.36,3.13,2.86,3.21
+E07000214,Surrey Heath,Local Authority,2.95,3.01,2.70,3.34,3.35,3.06,2.54,3.92
+E07000215,Tandridge,Local Authority,2.92,3.55,2.53,3.02,2.40,2.41,3.11,3.21
+E07000216,Waverley,Local Authority,2.81,2.75,2.60,2.57,2.57,2.42,2.91,2.74
+E07000217,Woking,Local Authority,3.56,3.22,2.85,2.79,3.00,2.77,3.19,2.18
+E10000032,West Sussex,County,3.04,3.24,2.74,2.74,2.90,2.96,2.92,2.65
+E07000223,Adur,Local Authority,3.49,2.84,2.38,2.65,3.28,3.68,2.74,2.95
+E07000224,Arun,Local Authority,3.06,2.94,2.84,2.40,3.22,3.23,2.56,2.54
+E07000225,Chichester,Local Authority,2.48,3.39,2.89,2.81,2.88,2.84,3.00,2.48
+E07000226,Crawley,Local Authority,3.37,2.87,2.48,2.91,2.32,3.02,2.97,2.78
+E07000227,Horsham,Local Authority,3.23,4.01,3.36,3.05,2.68,2.70,3.16,2.15
+E07000228,Mid Sussex,Local Authority,2.84,3.00,2.32,2.69,2.75,2.54,2.65,3.19
+E07000229,Worthing,Local Authority,3.04,3.48,2.71,2.73,3.28,3.06,3.45,2.58
+E12000009,SOUTH WEST,Region,3.00,2.99,2.87,2.82,2.80,2.84,2.81,2.86
+E06000022,Bath and North East Somerset,Local Authority,3.25,3.03,3.22,3.13,3.07,3.19,3.08,2.88
+E06000028,Bournemouth,Local Authority,3.00,3.04,2.89,2.68,2.83,2.95,2.89,2.95
+E06000023,"Bristol, City of",Local Authority,3.17,3.26,3.05,2.99,3.00,3.21,3.12,3.41
+E06000052,Cornwall,Local Authority,2.96,2.94,2.89,2.90,2.81,2.63,2.59,2.82
+E06000053,Isles of Scilly,Local Authority,x,x,x,x,x,x,x,x
+E06000024,North Somerset,Local Authority,3.12,2.99,2.76,2.78,2.83,2.82,2.83,2.75
+E06000026,Plymouth,Local Authority,3.21,3.14,3.10,2.84,2.82,2.97,2.96,3.03
+E06000029,Poole,Local Authority,3.04,2.97,2.83,2.69,2.82,2.80,2.82,2.83
+E06000025,South Gloucestershire,Local Authority,3.01,3.01,2.57,2.81,2.83,2.81,2.69,2.86
+E06000030,Swindon,Local Authority,2.96,2.79,2.97,3.07,3.01,2.93,2.72,2.77
+E06000027,Torbay,Local Authority,2.95,2.97,2.96,2.88,2.75,2.83,3.04,2.88
+E06000054,Wiltshire,Local Authority,2.92,2.80,3.01,2.86,2.74,2.76,2.91,2.80
+E10000008,Devon,County,3.01,2.90,2.78,2.77,2.65,2.69,2.75,2.74
+E07000040,East Devon,Local Authority,3.18,2.66,3.00,2.61,2.47,2.49,2.68,2.56
+E07000041,Exeter,Local Authority,3.21,3.16,2.44,3.11,3.08,3.22,3.25,3.32
+E07000042,Mid Devon,Local Authority,3.12,3.29,2.84,2.94,2.09,2.82,2.55,2.72
+E07000043,North Devon,Local Authority,2.92,2.67,3.15,3.10,2.50,2.43,2.55,2.65
+E07000044,South Hams,Local Authority,2.73,3.32,2.95,2.78,2.36,2.93,2.42,2.61
+E07000045,Teignbridge,Local Authority,2.81,2.85,2.13,2.39,2.98,2.30,2.90,2.92
+E07000046,Torridge,Local Authority,2.85,2.75,3.22,2.36,2.72,2.83,2.74,2.71
+E07000047,West Devon,Local Authority,3.20,2.47,3.01,2.89,2.74,2.56,2.47,1.82
+E10000009,Dorset,County,2.84,2.94,2.77,2.49,2.58,2.70,2.69,2.70
+E07000048,Christchurch,Local Authority,3.13,3.02,2.87,2.75,2.44,2.41,2.78,2.63
+E07000049,East Dorset,Local Authority,3.06,3.11,2.73,2.83,2.83,2.71,2.65,2.68
+E07000050,North Dorset,Local Authority,2.53,2.76,2.64,2.27,3.02,2.93,3.09,2.63
+E07000051,Purbeck,Local Authority,2.52,3.59,2.81,2.19,2.34,2.52,2.71,2.90
+E07000052,West Dorset,Local Authority,2.85,2.84,2.94,2.31,2.20,2.56,2.46,2.50
+E07000053,Weymouth and Portland,Local Authority,2.85,2.48,2.62,2.54,2.63,3.01,2.59,3.04
+E10000013,Gloucestershire,County,2.95,2.91,2.90,2.85,2.91,2.81,2.81,2.87
+E07000078,Cheltenham,Local Authority,2.94,2.95,3.09,2.80,3.23,3.13,2.77,3.03
+E07000079,Cotswold,Local Authority,2.99,2.59,2.70,2.73,2.53,2.23,2.24,3.16
+E07000080,Forest of Dean,Local Authority,2.59,2.92,2.93,3.41,2.69,2.88,3.28,2.26
+E07000081,Gloucester,Local Authority,3.06,2.81,2.96,2.60,2.72,2.76,2.78,2.82
+E07000082,Stroud,Local Authority,3.09,3.20,2.97,3.00,3.10,2.92,2.95,2.94
+E07000083,Tewkesbury,Local Authority,2.92,2.96,2.68,2.65,3.12,2.82,2.82,2.92
+E10000027,Somerset ,County,2.89,3.18,2.69,2.79,2.69,2.91,2.73,2.78
+E07000187,Mendip,Local Authority,2.61,3.25,2.59,2.73,3.00,3.17,2.91,3.00
+E07000188,Sedgemoor,Local Authority,2.83,3.46,2.77,2.76,2.74,3.02,2.77,2.89
+E07000189,South Somerset,Local Authority,3.09,2.91,2.52,2.86,2.50,2.65,2.77,2.51
+E07000190,Taunton Deane,Local Authority,2.79,3.24,3.10,2.97,2.56,3.10,2.46,2.65
+E07000191,West Somerset,Local Authority,3.31,3.08,2.19,x,2.92,2.30,2.67,x
+W92000004,WALES,Country,3.11,3.02,2.97,2.93,2.92,2.96,2.94,2.93
+W06000001,Isle of Anglesey / Ynys Môn,Local Authority,2.79,2.94,2.79,2.80,2.57,2.75,2.74,2.74
+W06000002,Gwynedd / Gwynedd,Local Authority,2.93,2.80,3.14,2.99,2.92,2.45,2.72,2.74
+W06000003,Conwy / Conwy,Local Authority,3.10,2.92,2.80,2.83,2.76,2.89,2.77,2.59
+W06000004,Denbighshire / Sir Ddinbych,Local Authority,2.84,3.08,2.97,2.77,2.68,2.61,2.75,2.62
+W06000005,Flintshire / Sir y Fflint,Local Authority,2.81,2.79,2.90,2.62,2.55,2.70,2.67,2.70
+W06000006,Wrexham / Wrecsam,Local Authority,3.12,3.03,2.83,2.85,2.87,2.92,2.63,2.53
+W06000023,Powys / Powys,Local Authority,2.94,3.01,2.78,2.84,2.54,2.88,2.91,2.68
+W06000008,Ceredigion / Ceredigion,Local Authority,2.88,2.87,2.90,2.78,2.94,2.92,2.95,3.01
+W06000009,Pembrokeshire / Sir Benfro,Local Authority,3.08,2.70,2.53,2.66,2.86,2.81,2.66,2.69
+W06000010,Carmarthenshire / Sir Gaerfyrddin,Local Authority,3.24,2.86,2.83,2.65,2.85,2.92,2.78,2.93
+W06000011,Swansea / Abertawe,Local Authority,3.34,2.92,2.84,3.27,2.93,3.18,3.19,3.16
+W06000012,Neath Port Talbot / Castell-nedd Port Talbot,Local Authority,3.32,3.01,3.06,3.13,3.03,2.95,3.08,2.92
+W06000013,Bridgend / Pen-y-bont ar Ogwr,Local Authority,3.03,3.13,2.87,3.03,2.88,2.91,2.91,2.79
+W06000014,Vale of Glamorgan / Bro Morgannwg,Local Authority,3.13,3.11,2.88,3.06,2.61,2.80,2.94,3.08
+W06000015,Cardiff / Caerdydd,Local Authority,3.20,3.24,3.00,2.65,3.00,3.13,3.13,3.28
+W06000016,Rhondda Cynon Taf / Rhondda Cynon Taf,Local Authority,3.22,3.10,3.14,3.07,3.14,3.04,3.12,3.25
+W06000024,Merthyr Tydfil / Merthyr Tudful,Local Authority,3.49,3.38,3.12,3.29,3.60,3.18,3.11,3.12
+W06000018,Caerphilly / Caerffili,Local Authority,3.16,3.40,3.29,3.20,3.15,3.14,3.25,3.00
+W06000019,Blaenau Gwent / Blaenau Gwent,Local Authority,3.51,3.02,3.39,3.18,3.09,3.16,3.14,2.89
+W06000020,Torfaen / Tor-faen,Local Authority,3.17,3.00,2.85,2.96,3.16,3.00,2.71,2.89
+W06000021,Monmouthshire / Sir Fynwy,Local Authority,2.83,2.90,3.15,2.97,2.94,3.05,2.94,2.83
+W06000022,Newport / Casnewydd,Local Authority,2.93,3.00,3.22,3.06,3.16,3.11,2.86,2.88
+S92000003,SCOTLAND,Country,3.06,2.93,2.89,2.83,2.85,2.89,2.89,2.83
+S12000033,Aberdeen City,Local Authority,3.01,2.56,2.95,2.76,2.72,2.90,2.81,2.93
+S12000034,Aberdeenshire,Local Authority,2.60,2.78,2.25,2.40,2.74,2.75,2.74,2.55
+S12000041,Angus,Local Authority,2.67,2.54,2.70,2.53,2.41,2.73,2.49,2.87
+S12000035,Argyll and Bute,Local Authority,2.83,2.73,2.94,2.63,2.57,2.50,2.70,2.68
+S12000036,City of Edinburgh,Local Authority,3.43,3.29,3.26,3.01,3.29,3.49,3.21,2.99
+S12000005,Clackmannanshire,Local Authority,3.31,2.54,2.66,2.93,2.77,2.94,2.85,2.53
+S12000006,Dumfries and Galloway,Local Authority,2.67,2.31,2.29,2.30,2.60,2.48,2.44,2.56
+S12000042,Dundee City,Local Authority,2.76,3.15,2.79,2.76,2.88,2.81,3.06,3.36
+S12000008,East Ayrshire,Local Authority,3.30,3.36,2.97,2.93,2.94,3.05,2.89,3.13
+S12000045,East Dunbartonshire,Local Authority,2.84,2.93,2.88,2.88,2.73,2.77,2.71,2.52
+S12000010,East Lothian,Local Authority,3.12,2.96,2.89,2.89,3.11,2.73,2.85,2.65
+S12000011,East Renfrewshire,Local Authority,3.09,2.90,2.83,2.85,3.02,2.83,2.98,2.72
+S12000014,Falkirk,Local Authority,3.23,3.07,2.90,2.62,2.84,2.86,2.78,3.04
+S12000015,Fife,Local Authority,2.83,2.90,2.77,2.89,2.92,2.53,2.81,2.77
+S12000046,Glasgow City,Local Authority,3.32,2.99,3.22,3.20,2.90,3.09,3.31,3.07
+S12000017,Highland,Local Authority,2.59,2.76,2.84,2.81,2.52,2.68,2.41,2.42
+S12000018,Inverclyde,Local Authority,3.29,3.13,3.18,3.21,2.81,2.84,3.25,3.06
+S12000019,Midlothian,Local Authority,2.78,2.90,2.99,2.59,2.86,2.72,2.67,2.85
+S12000020,Moray,Local Authority,2.75,2.86,2.58,2.37,2.77,2.70,2.64,2.46
+S12000013,Na h-Eileanan Siar,Local Authority,2.47,2.64,2.49,2.10,2.26,2.56,2.58,2.51
+S12000021,North Ayrshire,Local Authority,3.32,3.31,3.25,3.19,3.12,3.05,3.02,2.74
+S12000044,North Lanarkshire,Local Authority,3.29,3.08,3.04,2.94,2.81,2.95,2.93,2.70
+S12000023,Orkney Islands,Local Authority,2.59,2.30,2.13,2.48,1.85,2.16,2.12,2.09
+S12000024,Perth and Kinross,Local Authority,3.04,2.70,2.71,2.81,2.81,2.69,2.53,2.66
+S12000038,Renfrewshire,Local Authority,3.35,2.79,3.14,3.07,3.00,2.88,2.99,2.78
+S12000026,Scottish Borders ,Local Authority,2.79,2.69,2.54,2.50,2.47,2.33,2.78,2.77
+S12000027,Shetland Islands,Local Authority,2.33,2.36,2.22,2.32,2.56,2.29,2.72,2.47
+S12000028,South Ayrshire,Local Authority,3.59,3.30,3.11,3.00,2.95,2.84,2.85,2.98
+S12000029,South Lanarkshire,Local Authority,3.11,2.84,2.67,2.65,2.86,2.89,2.89,2.88
+S12000030,Stirling,Local Authority,3.04,2.75,2.72,2.80,3.02,3.11,2.96,3.14
+S12000039,West Dunbartonshire,Local Authority,3.01,3.12,3.02,3.09,2.88,2.98,2.88,2.72
+S12000040,West Lothian,Local Authority,2.96,3.15,2.72,2.60,2.73,3.03,2.69,2.77
+N92000002,"NORTHERN IRELAND2,3",Country,3.15,3.00,2.84,2.81,2.78,2.64,2.53,2.83
+N09000001,Antrim and Newtownabbey,Local Authority,x,2.55,2.49,2.29,2.07,2.81,2.45,2.80
+N09000011,Ards and North Down,Local Authority,x,2.97,3.08,3.06,2.84,2.24,2.57,2.61
+N09000002,"Armagh City, Banbridge and Craigavon",Local Authority,x,3.16,2.97,2.50,2.55,2.67,2.11,2.72
+N09000003,Belfast,Local Authority,x,3.92,3.08,3.40,3.41,2.78,2.99,3.31
+N09000004,Causeway Coast and Glens,Local Authority,x,2.77,2.61,2.60,2.88,2.47,2.43,2.80
+N09000005,Derry City and Strabane,Local Authority,x,3.56,3.27,3.25,2.92,3.49,3.49,3.35
+N09000006,Fermanagh and Omagh,Local Authority,x,2.19,2.09,2.15,2.29,2.08,1.98,2.25
+N09000007,Lisburn and Castlereagh,Local Authority,x,2.71,3.38,3.52,3.44,2.56,2.05,2.56
+N09000008,Mid and East Antrim,Local Authority,x,2.80,2.50,2.30,2.17,2.81,2.72,2.57
+N09000009,Mid Ulster,Local Authority,x,1.96,2.80,2.50,2.17,2.68,2.67,2.70
+N09000010,"Newry, Mourne and Down",Local Authority,x,2.80,2.49,2.54,2.87,2.25,1.98,2.71
