@@ -1,0 +1,383 @@
+﻿Area Code,Area,Value
+E06000001,Hartlepool,7.68
+E06000002,Middlesbrough,7.62
+E06000003,Redcar and Cleveland,7.76
+E06000004,Stockton-on-Tees,7.74
+E06000005,Darlington,7.55
+E06000006,Halton,7.68
+E06000007,Warrington,7.50
+E06000008,Blackburn with Darwen,7.69
+E06000009,Blackpool,7.45
+E06000010,"Kingston upon Hull, City of",7.44
+E06000011,East Riding of Yorkshire,8.01
+E06000012,North East Lincolnshire,7.67
+E06000013,North Lincolnshire,7.81
+E06000014,York,7.62
+E06000015,Derby,7.68
+E06000016,Leicester,7.68
+E06000017,Rutland,7.92
+E06000018,Nottingham,7.66
+E06000019,"Herefordshire, County of",7.81
+E06000020,Telford and Wrekin,7.76
+E06000021,Stoke-on-Trent,7.71
+E06000022,Bath and North East Somerset,7.57
+E06000023,"Bristol, City of",7.47
+E06000024,North Somerset,7.73
+E06000025,South Gloucestershire,7.67
+E06000026,Plymouth,7.75
+E06000027,Torbay,7.69
+E06000030,Swindon,7.65
+E06000031,Peterborough,7.69
+E06000032,Luton,7.78
+E06000033,Southend-on-Sea,7.66
+E06000034,Thurrock,7.89
+E06000035,Medway,7.81
+E06000036,Bracknell Forest,7.68
+E06000037,West Berkshire,7.61
+E06000038,Reading,7.46
+E06000039,Slough,7.68
+E06000040,Windsor and Maidenhead,7.74
+E06000041,Wokingham,7.63
+E06000042,Milton Keynes,7.59
+E06000043,Brighton and Hove,7.61
+E06000044,Portsmouth,7.61
+E06000045,Southampton,7.65
+E06000046,Isle of Wight,7.72
+E06000047,County Durham,7.78
+E06000049,Cheshire East,7.73
+E06000050,Cheshire West and Chester,7.73
+E06000051,Shropshire,7.84
+E06000052,Cornwall,7.78
+E06000053,Isles of Scilly,na
+E06000054,Wiltshire,7.74
+E06000055,Bedford,7.46
+E06000056,Central Bedfordshire,7.83
+E06000057,Northumberland,7.72
+E06000058,"Bournemouth, Christchurch and Poole",7.70
+E06000059,Dorset,7.98
+E07000004,Aylesbury Vale,7.53
+E07000005,Chiltern,7.94
+E07000006,South Bucks,7.94
+E07000007,Wycombe,7.71
+E07000008,Cambridge,8.12
+E07000009,East Cambridgeshire,8.09
+E07000010,Fenland,7.49
+E07000011,Huntingdonshire,7.69
+E07000012,South Cambridgeshire,7.88
+E07000026,Allerdale,8.05
+E07000027,Barrow-in-Furness,7.18
+E07000028,Carlisle,7.53
+E07000029,Copeland,7.97
+E07000030,Eden,8.19
+E07000031,South Lakeland,8.01
+E07000032,Amber Valley,7.58
+E07000033,Bolsover,7.79
+E07000034,Chesterfield,7.90
+E07000035,Derbyshire Dales,8.02
+E07000036,Erewash,7.93
+E07000037,High Peak,8.03
+E07000038,North East Derbyshire,8.05
+E07000039,South Derbyshire,7.83
+E07000040,East Devon,7.77
+E07000041,Exeter,7.30
+E07000042,Mid Devon,7.87
+E07000043,North Devon,7.50
+E07000044,South Hams,8.25
+E07000045,Teignbridge,8.23
+E07000046,Torridge,8.11
+E07000047,West Devon,8.54
+E07000061,Eastbourne,7.64
+E07000062,Hastings,7.61
+E07000063,Lewes,7.91
+E07000064,Rother,7.89
+E07000065,Wealden,7.64
+E07000066,Basildon,7.82
+E07000067,Braintree,7.46
+E07000068,Brentwood,7.50
+E07000069,Castle Point,7.94
+E07000070,Chelmsford,7.65
+E07000071,Colchester,7.74
+E07000072,Epping Forest,7.89
+E07000073,Harlow,7.69
+E07000074,Maldon,7.57
+E07000075,Rochford,7.76
+E07000076,Tendring,7.51
+E07000077,Uttlesford,8.27
+E07000078,Cheltenham,7.43
+E07000079,Cotswold,7.94
+E07000080,Forest of Dean,7.72
+E07000081,Gloucester,7.55
+E07000082,Stroud,8.06
+E07000083,Tewkesbury,7.79
+E07000084,Basingstoke and Deane,7.85
+E07000085,East Hampshire,8.09
+E07000086,Eastleigh,7.68
+E07000087,Fareham,7.73
+E07000088,Gosport,7.59
+E07000089,Hart,7.87
+E07000090,Havant,7.65
+E07000091,New Forest,7.61
+E07000092,Rushmoor,8.07
+E07000093,Test Valley,7.11
+E07000094,Winchester,7.31
+E07000095,Broxbourne,7.86
+E07000096,Dacorum,7.76
+E07000098,Hertsmere,8.09
+E07000099,North Hertfordshire,7.83
+E07000102,Three Rivers,7.51
+E07000103,Watford,7.46
+E07000105,Ashford,7.92
+E07000106,Canterbury,7.93
+E07000107,Dartford,7.94
+E07000108,Dover,7.59
+E07000109,Gravesham,7.50
+E07000110,Maidstone,7.55
+E07000111,Sevenoaks,7.76
+E07000112,Folkestone and Hythe,7.82
+E07000113,Swale,7.63
+E07000114,Thanet,7.52
+E07000115,Tonbridge and Malling,7.88
+E07000116,Tunbridge Wells,8.00
+E07000117,Burnley,7.80
+E07000118,Chorley,8.22
+E07000119,Fylde,7.55
+E07000120,Hyndburn,8.06
+E07000121,Lancaster,7.86
+E07000122,Pendle,7.56
+E07000123,Preston,8.06
+E07000124,Ribble Valley,8.25
+E07000125,Rossendale,7.68
+E07000126,South Ribble,8.00
+E07000127,West Lancashire,7.89
+E07000128,Wyre,8.00
+E07000129,Blaby,7.56
+E07000130,Charnwood,7.92
+E07000131,Harborough,7.78
+E07000132,Hinckley and Bosworth,7.79
+E07000133,Melton,7.79
+E07000134,North West Leicestershire,7.76
+E07000135,Oadby and Wigston,na
+E07000136,Boston,na
+E07000137,East Lindsey,8.03
+E07000138,Lincoln,8.02
+E07000139,North Kesteven,7.90
+E07000140,South Holland,8.28
+E07000141,South Kesteven,7.57
+E07000142,West Lindsey,7.92
+E07000143,Breckland,7.94
+E07000144,Broadland,7.86
+E07000145,Great Yarmouth,7.55
+E07000146,King's Lynn and West Norfolk,8.06
+E07000147,North Norfolk,7.83
+E07000148,Norwich,7.59
+E07000149,South Norfolk,7.77
+E07000150,Corby,na
+E07000151,Daventry,7.96
+E07000152,East Northamptonshire,7.88
+E07000153,Kettering,7.65
+E07000154,Northampton,7.74
+E07000155,South Northamptonshire,8.17
+E07000156,Wellingborough,8.05
+E07000163,Craven,8.00
+E07000164,Hambleton,7.48
+E07000165,Harrogate,7.99
+E07000166,Richmondshire,7.49
+E07000167,Ryedale,7.75
+E07000168,Scarborough,7.68
+E07000169,Selby,7.62
+E07000170,Ashfield,7.58
+E07000171,Bassetlaw,7.67
+E07000172,Broxtowe,7.82
+E07000173,Gedling,7.78
+E07000174,Mansfield,7.89
+E07000175,Newark and Sherwood,7.55
+E07000176,Rushcliffe,7.77
+E07000177,Cherwell,7.67
+E07000178,Oxford,8.09
+E07000179,South Oxfordshire,7.76
+E07000180,Vale of White Horse,7.69
+E07000181,West Oxfordshire,7.54
+E07000187,Mendip,7.92
+E07000188,Sedgemoor,7.89
+E07000189,South Somerset,8.01
+E07000192,Cannock Chase,7.07
+E07000193,East Staffordshire,7.62
+E07000194,Lichfield,7.19
+E07000195,Newcastle-under-Lyme,8.28
+E07000196,South Staffordshire,8.07
+E07000197,Stafford,7.46
+E07000198,Staffordshire Moorlands,8.25
+E07000199,Tamworth,7.62
+E07000200,Babergh,8.16
+E07000202,Ipswich,7.53
+E07000203,Mid Suffolk,7.68
+E07000207,Elmbridge,7.68
+E07000208,Epsom and Ewell,7.70
+E07000209,Guildford,7.66
+E07000210,Mole Valley,7.73
+E07000211,Reigate and Banstead,7.79
+E07000212,Runnymede,8.31
+E07000213,Spelthorne,7.60
+E07000214,Surrey Heath,8.04
+E07000215,Tandridge,7.72
+E07000216,Waverley,7.48
+E07000217,Woking,7.90
+E07000218,North Warwickshire,7.87
+E07000219,Nuneaton and Bedworth,7.70
+E07000220,Rugby,8.09
+E07000221,Stratford-on-Avon,7.63
+E07000222,Warwick,7.69
+E07000223,Adur,7.95
+E07000224,Arun,8.07
+E07000225,Chichester,6.82
+E07000226,Crawley,7.71
+E07000227,Horsham,7.93
+E07000228,Mid Sussex,8.06
+E07000229,Worthing,7.72
+E07000234,Bromsgrove,7.79
+E07000235,Malvern Hills,7.57
+E07000236,Redditch,7.41
+E07000237,Worcester,7.68
+E07000238,Wychavon,7.85
+E07000239,Wyre Forest,7.81
+E07000240,St Albans,7.55
+E07000241,Welwyn Hatfield,7.57
+E07000242,East Hertfordshire,7.73
+E07000243,Stevenage,7.46
+E07000244,East Suffolk,7.84
+E07000245,West Suffolk,7.77
+E07000246,Somerset West and Taunton,7.87
+E08000001,Bolton,7.64
+E08000002,Bury,7.74
+E08000003,Manchester,7.53
+E08000004,Oldham,7.72
+E08000005,Rochdale,7.56
+E08000006,Salford,7.76
+E08000007,Stockport,7.78
+E08000008,Tameside,7.79
+E08000009,Trafford,7.52
+E08000010,Wigan,7.71
+E08000011,Knowsley,7.65
+E08000012,Liverpool,7.44
+E08000013,St. Helens,7.63
+E08000014,Sefton,7.73
+E08000015,Wirral,7.59
+E08000016,Barnsley,7.84
+E08000017,Doncaster,7.77
+E08000018,Rotherham,7.96
+E08000019,Sheffield,7.39
+E08000021,Newcastle upon Tyne,7.63
+E08000022,North Tyneside,7.74
+E08000023,South Tyneside,7.64
+E08000024,Sunderland,7.60
+E08000025,Birmingham,7.70
+E08000026,Coventry,7.77
+E08000027,Dudley,7.68
+E08000028,Sandwell,7.61
+E08000029,Solihull,7.63
+E08000030,Walsall,7.71
+E08000031,Wolverhampton,7.75
+E08000032,Bradford,7.63
+E08000033,Calderdale,7.75
+E08000034,Kirklees,7.43
+E08000035,Leeds,7.71
+E08000036,Wakefield,7.63
+E08000037,Gateshead,7.47
+E09000001,City of London,na
+E09000002,Barking and Dagenham,7.84
+E09000003,Barnet,7.58
+E09000004,Bexley,7.81
+E09000005,Brent,7.46
+E09000006,Bromley,7.66
+E09000007,Camden,7.27
+E09000008,Croydon,7.60
+E09000009,Ealing,7.64
+E09000010,Enfield,7.62
+E09000011,Greenwich,7.64
+E09000012,Hackney,7.60
+E09000013,Hammersmith and Fulham,7.81
+E09000014,Haringey,7.58
+E09000015,Harrow,7.65
+E09000016,Havering,7.99
+E09000017,Hillingdon,7.78
+E09000018,Hounslow,7.64
+E09000019,Islington,7.32
+E09000020,Kensington and Chelsea,7.59
+E09000021,Kingston upon Thames,7.62
+E09000022,Lambeth,7.51
+E09000023,Lewisham,7.52
+E09000024,Merton,7.64
+E09000025,Newham,7.76
+E09000026,Redbridge,7.66
+E09000027,Richmond upon Thames,7.49
+E09000028,Southwark,7.34
+E09000029,Sutton,7.67
+E09000030,Tower Hamlets,7.64
+E09000031,Waltham Forest,7.70
+E09000032,Wandsworth,7.42
+E09000033,Westminster,7.58
+N09000001,Antrim and Newtownabbey,7.89
+N09000002,"Armagh City, Banbridge and Craigavon",7.79
+N09000003,Belfast,7.59
+N09000004,Causeway Coast and Glens,8.09
+N09000005,Derry City and Strabane,7.92
+N09000006,Fermanagh and Omagh,8.15
+N09000007,Lisburn and Castlereagh,8.00
+N09000008,Mid and East Antrim,7.99
+N09000009,Mid Ulster,8.12
+N09000010,"Newry, Mourne and Down",8.09
+N09000011,Ards and North Down,7.75
+S12000005,Clackmannanshire,7.57
+S12000006,Dumfries and Galloway,8.02
+S12000008,East Ayrshire,7.70
+S12000010,East Lothian,7.81
+S12000011,East Renfrewshire,7.90
+S12000013,Na h-Eileanan Siar,8.24
+S12000014,Falkirk,7.68
+S12000017,Highland,8.07
+S12000018,Inverclyde,7.69
+S12000019,Midlothian,7.85
+S12000020,Moray,7.83
+S12000021,North Ayrshire,7.64
+S12000023,Orkney Islands,8.31
+S12000026,Scottish Borders,7.81
+S12000027,Shetland Islands,8.02
+S12000028,South Ayrshire,7.73
+S12000029,South Lanarkshire,7.62
+S12000030,Stirling,7.69
+S12000033,Aberdeen City,7.56
+S12000034,Aberdeenshire,7.71
+S12000035,Argyll and Bute,7.92
+S12000036,City of Edinburgh,7.71
+S12000038,Renfrewshire,7.38
+S12000039,West Dunbartonshire,7.74
+S12000040,West Lothian,7.38
+S12000041,Angus,7.59
+S12000042,Dundee City,7.53
+S12000045,East Dunbartonshire,7.84
+S12000047,Fife,7.69
+S12000048,Perth and Kinross,7.84
+S12000049,Glasgow City,7.34
+S12000050,North Lanarkshire,7.77
+W06000001,Isle of Anglesey,7.83
+W06000002,Gwynedd,7.73
+W06000003,Conwy,7.70
+W06000004,Denbighshire,7.98
+W06000005,Flintshire,7.61
+W06000006,Wrexham,7.55
+W06000008,Ceredigion,7.67
+W06000009,Pembrokeshire,7.74
+W06000010,Carmarthenshire,7.81
+W06000011,Swansea,7.64
+W06000012,Neath Port Talbot,7.79
+W06000013,Bridgend,7.74
+W06000014,Vale of Glamorgan,7.70
+W06000015,Cardiff,7.60
+W06000016,Rhondda Cynon Taf,7.59
+W06000018,Caerphilly,7.73
+W06000019,Blaenau Gwent,7.56
+W06000020,Torfaen,7.66
+W06000021,Monmouthshire,7.80
+W06000022,Newport,7.63
+W06000023,Powys,7.69
+W06000024,Merthyr Tydfil,7.71

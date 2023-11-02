@@ -29,8 +29,9 @@ library(grid)
 #Data location
 #----------------------
 
-path <- "/01_Data/"
+path <- "Home/Documents/GIT/wellbeing/02_Rscripts/01_Data/2022/"
 setwd(path) #set directory to declared path
+setwd("~/Documents/GIT/wellbeing/01_Data/2022")
 
 ons.data.filename.anxiety <- "wellbeing_ons_anxiety.csv"
 ons.data.filename.happy <- "wellbeing_ons_happy.csv"
